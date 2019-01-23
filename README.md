@@ -13,7 +13,7 @@ And maybe something more but and don't remember now... so sorry. I made this pag
 
 # Run it.
 
-It don'sent matter if you run first the angular proyect or the api. But if you run the angular proyect and don't run the api you will see some things are not going to work. So, I recommend first run the api and then run the angular proyect just for make sure.
+It does not matter if you execute first the angular project or the api. But if you run the angular proyect and don't run the api you will see some things are not going to work. So, I recommend first run the api and then run the angular proyect just for make sure.
 
     * API Node.
        - Install the node_modules. For that you need to execute this command line ````npm install````.
